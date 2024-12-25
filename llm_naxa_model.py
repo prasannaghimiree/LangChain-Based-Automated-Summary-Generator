@@ -1,1 +1,0 @@
-model_url = 'https://ollama-main.naxa.com.np/'
